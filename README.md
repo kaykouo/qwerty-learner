@@ -25,7 +25,7 @@
 </p>
 
 <div align="center">
-  <img src="Screenshot.png"/>
+  <img src="docus/Screenshot.png"/>
 </div>
 
 ## 📸 Online Access
