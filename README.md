@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <a href="./docs/README_EN.md">English</a> 
+  <a href="./docu/README_EN.md">English</a>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 </p>
 
 <div align=center>
-<img  src="docs/Screenshot.png"/>
+<img  src="docu/Screenshot.png"/>
 </div>
 
 ## 📸 在线访问
@@ -55,7 +55,7 @@ Gitee Pages: https://kaiyiwing.gitee.io/qwerty-learner/
 内置了程序员工作常用单词的词库，方便练习工作中常用的单词、提高输入速度。也内置了诸多语言的 API 的练习，帮助以程序员快速熟悉常用的 API，更多语言的 API 正在逐步添加中...
 
 <div align=center>
-<img  src="https://github.com/Kaiyiwing/qwerty-learner/blob/master/docs/coder.png"/>
+<img  src="https://github.com/Kaiyiwing/qwerty-learner/blob/master/docu/coder.png"/>
 </div>
 
 <br />
@@ -74,7 +74,7 @@ Gitee Pages: https://kaiyiwing.gitee.io/qwerty-learner/
 方便用户在记忆单词时，同时记忆读音与音标。
 
 <div align=center>
-<img  src="https://github.com/Kaiyiwing/qwerty-learner/blob/master/docs/phonetic.jpeg"/>
+<img  src="https://github.com/Kaiyiwing/qwerty-learner/blob/master/docu/phonetic.jpeg"/>
 </div>
 <br />
 <br />
@@ -84,7 +84,7 @@ Gitee Pages: https://kaiyiwing.gitee.io/qwerty-learner/
 在用户完成一个章节的练习后，会弹出选项是否默写本章，方便用户巩固本章学习的单词。
 
 <div align=center>
-<img  src="https://github.com/Kaiyiwing/qwerty-learner/blob/master/docs/dictation.png"/>
+<img  src="https://github.com/Kaiyiwing/qwerty-learner/blob/master/docu/dictation.png"/>
 </div>
 <br />
 <br />
@@ -94,7 +94,7 @@ Gitee Pages: https://kaiyiwing.gitee.io/qwerty-learner/
 量化用户输入的速度和输入的正确率，让用户有感知的了解自己技能的提升
 
 <div align=center>
-<img  src="https://github.com/Kaiyiwing/qwerty-learner/blob/master/docs/speed.jpeg"/>
+<img  src="https://github.com/Kaiyiwing/qwerty-learner/blob/master/docu/speed.jpeg"/>
 </div>
 <br />
 <br />
@@ -172,7 +172,7 @@ Gitee Pages: https://kaiyiwing.gitee.io/qwerty-learner/
 
 如果您喜欢我们软件，非常感谢您对我们未来的支持!
 
-<img  src="https://github.com/Kaiyiwing/qwerty-learner/blob/master/docs/alipay.png" width="200px"/>
+<img  src="https://github.com/Kaiyiwing/qwerty-learner/blob/master/docu/alipay.png" width="200px"/>
 
 ## 👨‍💻 Contributors
 
@@ -202,7 +202,7 @@ Gitee Pages: https://kaiyiwing.gitee.io/qwerty-learner/
 [React](https://github.com/facebook/react) & [CRA](https://github.com/facebook/create-react-app)  
 完整和详细的文档对初学者非常友好，React 系的文档是我目前自学过程中读过最棒的文档，几乎解决使用中大部分问题。非常感谢 React 对开源世界的贡献，为我们搭建了很好的基础，让初学者也能构建非常棒的软件。
 
-[Tailwindcss](https://tailwindcss.com/docs)  
+[Tailwindcss](https://tailwindcss.com/docu)  
 如果没有 tailwind，这个项目还有再拖一阵子，tailwind 的设计思路解决了 css 入门选手对写复杂 css 的恐惧，让新手以一个非常舒适的方式去设计 UI。
 <br/><br/>
 
