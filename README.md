@@ -32,9 +32,7 @@
 
 We have deployed QWERTY Learner on many platforms. You can try QWERTY Learner in following ways.
 
-- Vercel: https://qwerty.kaiyi.cool/, or https://qwerty-learner.vercel.app/.
-- GitHub Pages: https://kaiyiwing.github.io/qwerty-learner/.
-- Gitee Pages (recommended for people in mainland China): https://kaiyiwing.gitee.io/qwerty-learner/.
+- GitHub Pages: kaykouo.github.io/qwerty-learner/
 
 QWERTY Learner also has a Visual Studio Code plugin. With a single click and you will be able to practice anytime.
 
