@@ -54,7 +54,7 @@ QWERTY Learner is very useful for people who are going to take computer-based En
 QWERTY Learner is also helpful for developers. It has built-in dictionaries of words and phrases which are common in code and documentations. We believe these dictionaries will improve developers’ typing speed. Besides, It also has built-in API dictionaries of many languages, which helps developers quickly familiarize with common APIs. More and more APIs are coming soon.
 
 <div align="center">
-  <img src="https://github.com/Kaiyiwing/qwerty-learner/blob/master/docus/coder.png"/>
+  <img src="docus/coder.png"/>
 </div>
 
 [mm]: https://en.wikipedia.org/wiki/Muscle_memory
@@ -78,7 +78,7 @@ While typing, QWERTY Learner shows the [IPA][ipa] of current word and reads the 
 After peple finish a chapter, QWERTY Learner will ask if people are willing to dictate the chapter. This is intended to consolidate words learned in the chapter.
 
 <div align=center>
-  <img src="https://github.com/Kaiyiwing/qwerty-learner/blob/master/docus/phonetic.jpeg"/>
+  <img src="docus/phonetic.jpeg"/>
 </div>
 
 ### Speed and Accuracy
@@ -86,7 +86,7 @@ After peple finish a chapter, QWERTY Learner will ask if people are willing to d
 QWERTY Learner counts how many strokes people have typed and shows the speed and accuracy in real time. By doing so, people can acknowledge how much they have improved.
 
 <div align=center>
-  <img src="https://github.com/Kaiyiwing/qwerty-learner/blob/master/docus/dictation.png"/>
+  <img src="docus/dictation.png"/>
 </div>
 
 ## 🏆 Honors
@@ -147,14 +147,6 @@ Before contribution, we recommend you to read [issue #42][issue-42] in order to 
 If you have decided the task you are willing to accomplish. Please create a draft PR after you make any progress. By doing so, you, us, and other contributors can discuss in the draft PR.
 
 After all, thanks for your contribution! 🎉
-
-## ☕️ Buy Me A Coffee!
-
-Currently, QWERTY Learner is mainly maintained by three people in their spare time. In the future, we hope to purchase a separate domain and host an backend server for data synchronization. Therefore, if you like QWERTY Learner, please consider donation. This will definitely motivate us on the way of making QWERTY Learner better!
-
-<img src="https://github.com/Kaiyiwing/qwerty-learner/blob/master/docus/alipay.png" width="200px"/>
-
-Note: we only accept donation from Alipay at present.
 
 ## 👨‍💻 Contributors
 
