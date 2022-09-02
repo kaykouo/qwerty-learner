@@ -32,7 +32,7 @@
 
 We have deployed QWERTY Learner on many platforms. You can try QWERTY Learner in following ways.
 
-- GitHub Pages: kaykouo.github.io/qwerty-learner/
+- GitHub Pages: https://kaykouo.github.io/qwerty-learner/
 
 QWERTY Learner also has a Visual Studio Code plugin. With a single click and you will be able to practice anytime.
 
